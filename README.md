@@ -1,7 +1,5 @@
 # From-Scratch-Decision-Tree
 
-# Conclusion
-
 - Successfully built a decision tree classifier **from scratch** for the Page Block Classification dataset.
 - Achieved a **high accuracy of over 96%** using the custom decision tree, closely matching scikit-learn’s performance.
 - Implemented core functionalities including:
